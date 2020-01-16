@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Android45</string>
+    <string name="addAlbum">ADD</string>
+    <string name="delAlbum">DEL</string>
+    <string name="editAlbum">EDIT</string>
+    <string name="openAlbum">OPEN</string>
+    <string name="add_an_album">Add an Album</string>
+    <string name="albumtext">Enter Album Name</string>
+    <string name="submit">Submit</string>
+    <string name="error_duplicate_msg">Error Duplicate Album</string>
+    <string name="empty_field">Album Field is Empty</string>
+    <string name="noSelection">No Album Selected</string>
+    <string name="renamesuccess">Album Renamed Successfully</string>
+    <string name="ser">search</string>
+    <string name="saveAlbum">saved</string>
+    <string name="cancelEdit">cancelled</string>
+    <string name="goBack">Back to Albums</string>
+    <string name="clickandhold">Click And Hold Album To Open</string>
+    <string name="cancellEdit">Cancel</string>
+    <string name="saveEdit">Save</string>
+    <string name="addPhoto">Add A Photo To The Current Album</string>
+    <string name="open_album">openAlbum</string>
+</resources>
